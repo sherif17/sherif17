@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherif Ahmed Abd EL-Hamid</h1>
-<h3 align="center">Software Engineer.</h3>
+<h3 align="center">Junior Software Engineerr.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherif17&label=Profile%20views&color=0e75b6&style=flat" alt="sherif17" /> </p>
 
@@ -8,6 +8,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sherif17](https://github.com/sherif17)
 
 - 📫 How to reach me **Sherif17.ahmed@gmail.com**
+
+- 👨‍💻 Hire me through freelancer [https://www.freelancer.com/u/Shefo17](https://www.freelancer.com/u/Shefo17) 
+
+- 👨‍💻 Hire me through upwork [https://www.upwork.com/o/profiles/users/~01462cd9cc32051040/](https://www.upwork.com/o/profiles/users/~01462cd9cc32051040/)  
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-c3VMyp3tTr42RcWseUfZCPxQUvqHBDy/view?usp=sharing](https://drive.google.com/file/d/1-c3VMyp3tTr42RcWseUfZCPxQUvqHBDy/view?usp=sharing)
 
