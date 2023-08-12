@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Problem Solving, Software Engineering,  AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/sherif17)
+- 👨‍💻 All of my projects are available at [My Repos]([https://github.com/sherif17](https://github.com/sherif17?tab=repositories))
 
 - 📫 How to reach me **Sherif17.ahmed@gmail.com**
 
