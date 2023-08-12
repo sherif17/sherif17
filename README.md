@@ -3,20 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherif17&label=Profile%20views&color=0e75b6&style=flat" alt="sherif17" /> </p>
 
-- 🔭 I’m currently working on developing my problem solving skills **With PST Coach Academy, under supervision of Coach Mohamed Abd El-Wahab.**
+- 🔭 I’m currently working as Software AI Engineer @**Deloitte**
 
-- 💬 Ask me about **Problem Solving, Flutter, Computer Vision, Deep Learning.**
+- 💬 Ask me about **Problem Solving, Software Engineering,  AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sherif17](https://github.com/sherif17)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/sherif17)
 
 - 📫 How to reach me **Sherif17.ahmed@gmail.com**
 
-- 👨‍💻 Hire me through freelancer [https://www.freelancer.com/u/Shefo17](https://www.freelancer.com/u/Shefo17) 
+- 👨‍💻 Hire me through freelancer [Freelancer's Profile](https://www.freelancer.com/u/Shefo17) 
 
-- 👨‍💻 Hire me through upwork [https://www.upwork.com/o/profiles/users/~01462cd9cc32051040/](https://www.upwork.com/o/profiles/users/~01462cd9cc32051040/)  
+- 👨‍💻 Hire me through upwork [Upwork's Profile](https://www.upwork.com/o/profiles/users/~01462cd9cc32051040/)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1koMSzjMz4laWKOtyGR8XN02FamOWOh3L/view?usp=sharing](https://drive.google.com/file/d/1koMSzjMz4laWKOtyGR8XN02FamOWOh3L/view?usp=sharing)
-- 🤝 I’m looking for help with **MECHA-WINCH** Project, to launch it as startup in Egypt https://github.com/users/sherif17/projects?query=is%3Aclosed
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wJY2_3_gu5pGv11jMpc14RDo6wCMiizX/view?usp=sharing)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
