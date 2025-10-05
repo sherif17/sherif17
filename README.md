@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, This is Sherif Ahmed</h1>
-<h3 align="center">Junior Software AI & Machine Learning Engineer.</h3>
+<h3 align="center">Senior Software AI & Machine Learning Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherif17&label=Profile%20views&color=0e75b6&style=flat" alt="sherif17" /> </p>
 
-- 🔭 I’m currently working as Software AI Engineer @**Deloitte**
+- 🔭 I’m currently working as AI & Data Engineer @**Deloitte Innovation Hub**
 
-- 💬 Ask me about **Problem Solving, Software Engineering,  AI and Machine Learning**
+- 💬 Ask me about **Problem Solving, Software Engineering,  AI and Machine Learning**, **GEN AI**
 
 - 👨‍💻 All of my projects are available at [My Repos]([https://github.com/sherif17](https://github.com/sherif17?tab=repositories))
 
